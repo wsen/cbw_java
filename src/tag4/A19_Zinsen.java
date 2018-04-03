@@ -8,7 +8,7 @@ public class A19_Zinsen {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Guthaben ?");
-        String line = sc.nextLine();
+        String line = sc.nextLine();  //.nextInt(), .nextDouble()
         int guthaben = Integer.parseInt(line);
 
         System.out.print("Zinssatz ?");
