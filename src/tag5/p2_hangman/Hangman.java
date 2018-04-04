@@ -18,7 +18,7 @@ public class Hangman {
         for (int i=1; i<=5; i++) {
             System.out.print(String.valueOf(i) + ". Versuch");
             eingabe = sc.nextLine();
-            char[] eingabeArr = eingabe.toCharArray();
+            // char[] eingabeArr = eingabe.toCharArray(); //Simple String
 
 
 
