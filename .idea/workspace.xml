@@ -2,6 +2,7 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/tag4/Aufgabe15.java" line="8" />
+    <bookmark url="file://$PROJECT_DIR$/src/tag6/p4_pizzaboote/Pizzaboote.java" line="46" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3db629b6-bd5f-4a15-8ccc-a6de9485858d" name="Default" comment="" />
@@ -15,38 +16,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GeheimesWort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tag5/p1_geheim/GeheimesWort.java">
+      <file leaf-file-name="Pferd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tag6/p3_pferderennen/Pferd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="30" selection-end-column="61" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hangman.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hangman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tag5/p2_hangman/Hangman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeheimesWortRaten.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tag5/p1_geheim/GeheimesWortRaten.java">
+      <file leaf-file-name="Pferd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tag6/pferderennen/Pferd.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sterne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tag5/sterni/Sterne.java">
+      <file leaf-file-name="Pferderennen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tag6/pferderennen/Pferderennen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="194">
+              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pizzaboote.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tag6/p4_pizzaboote/Pizzaboote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+              <folding>
+                <element signature="e#1288#1289#0" expanded="true" />
+                <element signature="e#1312#1313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A19_Zinsen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tag4/A19_Zinsen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Links" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tag6/Links">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rennen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tag6/p3_pferderennen/Rennen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -65,6 +106,10 @@
       <find>steuern</find>
       <find>Monat</find>
       <find>Plaetzchen</find>
+      <find>true</find>
+      <find>break</find>
+      <find>random</find>
+      <find>geld</find>
     </findStrings>
     <replaceStrings>
       <replace>aussage</replace>
@@ -103,13 +148,18 @@
         <option value="$PROJECT_DIR$/src/tag5/p1_geheim/GeheimesWort.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/tag5/p2_hangman/Hangman.java" />
+        <option value="$PROJECT_DIR$/src/tag6/p4_pferderennen/Rennen.java" />
+        <option value="$PROJECT_DIR$/src/tag6/Links" />
+        <option value="$PROJECT_DIR$/src/tag6/p4_pferderennen/Pferd.java" />
+        <option value="$PROJECT_DIR$/src/tag6/pferderennen/Pferderennen.java" />
+        <option value="$PROJECT_DIR$/src/tag6/p4_pizzaboote/Pizzaboote.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="5" />
     <option name="y" value="3" />
-    <option name="width" value="1239" />
+    <option name="width" value="1190" />
     <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -134,19 +184,14 @@
               <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tag3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tag4" type="462c0819:PsiDirectoryNode" />
+              <item name="tag5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tag5" type="462c0819:PsiDirectoryNode" />
+              <item name="hangman" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
@@ -154,6 +199,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tag5" type="462c0819:PsiDirectoryNode" />
               <item name="p2_hangman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tag5" type="462c0819:PsiDirectoryNode" />
+              <item name="sterni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaKurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKurs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tag6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,18 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GeheimesWortRaten">
-    <configuration name="AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tag4.A21_auto.AutoTest" />
-      <module name="JavaKurs" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tag4.A21_auto.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Pizzaboote">
     <configuration name="GeheimesWortRaten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tag5.p1_geheim.GeheimesWortRaten" />
       <module name="JavaKurs" />
@@ -206,24 +253,35 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HandelsspanneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tag4.A22.HandelsspanneTest" />
-      <module name="JavaKurs" />
+    <configuration name="HangmanStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tag5.p2_hangman.HangmanStart" />
+      <module name="cbw_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tag4.A22.*" />
+          <option name="PATTERN" value="tag5.p2_hangman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PlaetzchenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tag4.demoobjekte.PlaetzchenTest" />
-      <module name="JavaKurs" />
+    <configuration name="Pferderennen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pferderennen.Pferderennen" />
+      <module name="cbw_java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tag4.demoobjekte.*" />
+          <option name="PATTERN" value="pferderennen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Pizzaboote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tag6.p4_pizzaboote.Pizzaboote" />
+      <module name="cbw_java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tag6.p4_pizzaboote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,6 +316,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaKurs" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -281,19 +349,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AutoTest" />
-      <item itemvalue="Application.PlaetzchenTest" />
-      <item itemvalue="Application.HandelsspanneTest" />
       <item itemvalue="Application.Sterne" />
       <item itemvalue="Application.GeheimesWortRaten" />
+      <item itemvalue="Application.HangmanStart" />
+      <item itemvalue="Application.Pferderennen" />
+      <item itemvalue="Application.Pizzaboote" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pizzaboote" />
+        <item itemvalue="Application.Pferderennen" />
+        <item itemvalue="Application.HangmanStart" />
         <item itemvalue="Application.GeheimesWortRaten" />
         <item itemvalue="Application.Sterne" />
-        <item itemvalue="Application.HandelsspanneTest" />
-        <item itemvalue="Application.AutoTest" />
-        <item itemvalue="Application.PlaetzchenTest" />
       </list>
     </recent_temporary>
   </component>
@@ -311,21 +379,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="3" width="1239" height="1010" extended-state="0" />
+    <frame x="5" y="3" width="1190" height="1010" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.22706422" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.10550459" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18004587" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30619168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27168143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -338,33 +408,32 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.22706422" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11445783" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36582568" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33581394" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3329609" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32568806" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.22706422" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
@@ -374,7 +443,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -518,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tag5/sterni/Sterne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tag4/A17_Quartalssumme.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -560,31 +622,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tag4/A19_Zinsen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tag4/A22/Artikel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tag5/p1_geheim/GeheimesWortRaten.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tag5/p1_geheim/GeheimesWort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="30" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -595,10 +636,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag5/p1_geheim/GeheimesWort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag5/p2_hangman/HangmanStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag5/p1_geheim/GeheimesWortRaten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag5/sterni/Sterne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag6/Links">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag6/p3_pferderennen/Spieler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag6/p3_pferderennen/Pferd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag4/A19_Zinsen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag6/p3_pferderennen/Rennen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tag5/p2_hangman/Hangman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag6/pferderennen/Pferd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag6/pferderennen/Pferderennen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tag6/p4_pizzaboote/Pizzaboote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+          <folding>
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

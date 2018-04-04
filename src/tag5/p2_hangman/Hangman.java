@@ -2,9 +2,17 @@ package tag5.p2_hangman;
 import java.util.Scanner;
 
 public class Hangman {
+    // ToDo: Check Lösung vorzeitig gefunden
     private String geheim = "GEHEIM";
     char[] geheimArr = geheim.toCharArray();
-    private String eingabe = "";
+    String geheimChar;
+
+    private String eingabe;
+    private String s;
+
+    private String ausgabe = "______";
+    char[] ausgabeArr = ausgabe.toCharArray();
+    String ausgabePrint;
 
 
     public Hangman() {
@@ -13,23 +21,32 @@ public class Hangman {
 
     public void check() {
         Scanner sc = new Scanner(System.in);
-        Boolean richtig=false;
-
-        for (int i=1; i<=5; i++) {
-            System.out.print(String.valueOf(i) + ". Versuch");
-            eingabe = sc.nextLine();
-            // char[] eingabeArr = eingabe.toCharArray(); //Simple String
+        int richtig = geheimArr.length;
 
 
+        while (richtig > 0) {
+            for (int i = 1; i <= 5; i++) {
+                System.out.print(String.valueOf(i) + ". Versuch\n");
+                eingabe = sc.nextLine();
 
-/*           if(.equals(eingabe)) {
-                System.out.println("Richtig! /n Gewonnen! /n");
-                richtig=true;
-                break;
+                for (int j = 0; j < geheimArr.length; j++) {
+                    s = "" + geheimArr[j];
+                    if (s.equals(eingabe)) {
+                        ausgabeArr[j] = geheimArr[j];
+                        richtig--;
+                        //System.out.print(richtig);
+                    }
+                }
+                ausgabePrint = new String(ausgabeArr);
+                System.out.println(ausgabePrint);
+
+            }
+            if (richtig == 0) {
+                System.out.println("Hurra gewonnen !");
             } else {
-                System.out.println("Falscher Fehler!");
-            }*/
+                System.out.println("Leider Verloren !");
+            }
+            break;
         }
-        if(!richtig) System.out.println("Leider Verloren !");
     }
 }
