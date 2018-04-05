@@ -1,1 +1,26 @@
 http://kroening-online.info/Method/Entscheidungstabelle/m_et.php
+
+Klausur
+1. Allgemeinwissen
+   Wahr oder Falsch?
+2. Schleifen
+3. Klassendiagramm
+4. Entscheidungstabelle
+5. Polymorphie
+6. Ablaufplan, Struktogramm, Pseudocode
+7. Java Code lesen
+
+Erstelle Spielfeld Feld  (0-6,0-5)
+Ausgabe Feld in Main via
+Abstrakte Methode: getChar
+
+Zufällige Verteilung von 9 Zielen
+Wand in der Mitte mit Tor in einer Zelle
+Schlüssel hinterlegt in Spielerzone
+
+
+Spieler:
+Sammelt Ziele nach Reihenfolge wie verteilt
+Sammelt Schüssel für Tor
+Abfrage ob Zelle Tor via instanceOf
+
