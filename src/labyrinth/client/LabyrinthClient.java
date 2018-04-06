@@ -21,26 +21,11 @@ public class LabyrinthClient {
         result = player.turnRight();
         System.out.println("'"+result+"'");
 
-        while (){
-        for (int i= 0; i<8; i++) {
-                result = player.moveForward();
-                System.out.println("'"+result+"'");
-        }
-
-//            result = player.turnLeft();
-
-        if (result.equals(" **")) {
-                System.out.println("Boah Ey");
-                player.turnLeft();
-                player.moveForward();
-        }
-
-
 //        result = player.moveForward();
 //        System.out.println("'"+result+"'");
 
-//        result = player.turnLeft();
-//        System.out.println("'**'");
+        result = player.turnRight();
+        System.out.println("'"+result+"'");
     }
 
 }
