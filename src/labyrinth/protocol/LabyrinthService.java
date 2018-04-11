@@ -10,5 +10,4 @@ public interface LabyrinthService extends Remote {
     public static final String NAME = "rmi://" + HOST + "/LabyrinthService";
 
     PlayerService login() throws RemoteException;
-
 }

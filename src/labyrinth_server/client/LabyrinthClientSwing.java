@@ -1,4 +1,4 @@
-package labyrinth.client;
+package labyrinth_server.client;
 
 import labyrinth.protocol.LabyrinthService;
 import labyrinth.protocol.PlayerService;
@@ -51,7 +51,7 @@ public class LabyrinthClientSwing extends JFrame implements ActionListener, KeyL
         try {
             switch (event.getKeyCode()) {
                 case KeyEvent.VK_S:
-                    player.shoot();
+                    //player.shoot();
                     break;
                 case KeyEvent.VK_UP:
                     player.moveForward();

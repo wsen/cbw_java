@@ -1,4 +1,4 @@
-package labyrinth.client;
+package labyrinth_server.client;
 
 import labyrinth.protocol.LabyrinthService;
 import labyrinth.protocol.PlayerService;

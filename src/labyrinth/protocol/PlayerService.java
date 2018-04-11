@@ -11,4 +11,7 @@ public interface PlayerService extends Remote {
 
     String turnRight() throws RemoteException;
 
+    String shoot() throws RemoteException;
+
+
 }

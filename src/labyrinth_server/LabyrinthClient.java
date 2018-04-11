@@ -1,4 +1,4 @@
-package labyrinth.client;
+package labyrinth_server;
 
 import labyrinth.protocol.LabyrinthService;
 import labyrinth.protocol.PlayerService;
@@ -26,6 +26,8 @@ public class LabyrinthClient {
 
         result = player.turnRight();
         System.out.println("'"+result+"'");
+
+
     }
 
 }

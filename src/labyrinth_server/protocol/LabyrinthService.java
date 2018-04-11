@@ -1,4 +1,4 @@
-package labyrinth.protocol;
+package labyrinth_server.protocol;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
